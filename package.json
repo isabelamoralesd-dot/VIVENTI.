@@ -1,0 +1,20 @@
+{
+  "name": "viventi",
+  "version": "1.0.0",
+  "description": "Viventi — Regalos vivos que perduran. Plant arrangement e-commerce with MercadoPago integration.",
+  "scripts": {
+    "dev": "netlify dev",
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": true
+}
